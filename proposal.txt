@@ -10,5 +10,11 @@ My project will be a website that allows users to search for different crypto cu
 
 My demographic is probably 16+, I don't think young children are interested in crypto. I could be wrong, though. 
 
-https://p.nomics.com/cryptocurrency-bitcoin-api .
+https://coinmarketcap.com/api/documentation/v1/ This api has a lot of the infromation I'd like to use. 
 
+I dont think there's any sensitive information, as its just an encylopedia style website. I could add user accounts and have followed coins, or favorite coins.
+
+Website log in -> search bar -> coin price/definition
+
+A stretch goal could be, allowing users to guess what a coins value will be in a week, and then a week later the website compares the guess with the actual value 
+and reports the difference back to the user. 
