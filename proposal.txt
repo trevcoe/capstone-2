@@ -1,0 +1,14 @@
+Trevor Coe
+
+I will use react and node for this project.
+
+I would like to focus more on the front end, I feel like I’m better at front end work.
+
+I would like it to be a website.
+
+My project will be a website that allows users to search for different crypto currencies, and displays the currency, value, and what the coin is intended to do. 
+
+My demographic is probably 16+, I don't think young children are interested in crypto. I could be wrong, though. 
+
+https://p.nomics.com/cryptocurrency-bitcoin-api .
+
